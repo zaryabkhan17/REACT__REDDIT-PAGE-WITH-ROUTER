@@ -1,8 +1,8 @@
 
+import './dashboard.css'
 
 
-
-function dashboard() {
+export default function Dashboard() {
     return(
         <div>
       <nav>
